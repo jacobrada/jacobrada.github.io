@@ -1,0 +1,59 @@
+.main {
+    color: #525252;
+    height: 60%;
+    width: 90%;
+}
+
+.languages {
+    margin-right: 50px;
+    text-align: right;
+    font-family: "Cascadia Code", sans-serif;
+}
+
+.section {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 24px;
+
+    position: relative;
+    line-height: 1.5em;
+}
+
+.section-left {
+    right: 70%;
+    width: 30%;
+    height: auto;
+
+    position: absolute;
+    text-align: right;
+}
+
+.section-right {
+    left: 30%;
+    width: 60%;
+
+    position: relative;
+    margin-left: 2em;
+    text-align: left;
+    word-wrap: normal;
+}
+
+
+.lastname {
+    font-weight: 700;
+    font-size: 50px;
+}
+.firstname {
+    color: #525252;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 2em;
+}
+#name {
+    height: 70px;
+}
+
+.details {
+    line-height: 1.5em;
+}

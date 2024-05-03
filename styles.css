@@ -5,27 +5,6 @@ body {
 
     /*background: linear-gradient(#b7d9e0, #f6f8d5);*/
     background: linear-gradient(#b4d6dc, #ffffff);
-}
-
-.main {
-    color: #525252;
-    height: 60%;
-    width: 90%;
-}
-
-.languages {
-    margin-right: 50px;
-    text-align: right;
-    font-family: "Cascadia Code", sans-serif;
-}
-
-.section {
-    display: block;
-    width: 100%;
-    height: auto;
-    margin: 24px;
-
-    position: relative;
 
     font-family: "Ubuntu Sans", serif;
     font-optical-sizing: auto;
@@ -34,35 +13,3 @@ body {
     font-size: 1em;
 }
 
-.section-left {
-    right: 70%;
-    width: 30%;
-    height: auto;
-
-    position: absolute;
-    text-align: right;
-}
-
-.section-right {
-    left: 30%;
-    width: 60%;
-
-    position: relative;
-    margin-left: 2em;
-    text-align: left;
-    word-wrap: normal;
-}
-
-
-.lastname {
-    font-weight: 700;
-    font-size: 50px;
-}
-.firstname {
-    color: #525252;
-    font-weight: 500;
-    font-size: 24px;
-}
-#name {
-    height: 70px;
-}
