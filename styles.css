@@ -1,0 +1,51 @@
+body {
+    min-height: 100vh;
+    color: black;
+
+    /*background: linear-gradient(#b7d9e0, #f6f8d5);*/
+    background: linear-gradient(#b4d6dc, #ffffff);
+}
+
+.main {
+    min-height: 100vh;
+}
+
+.languages {
+    text-align: right;
+    font-family: "Cascadia Code", sans-serif;
+}
+
+.section {
+    margin: 28px;
+    padding: 0;
+}
+
+.section-left {
+    right: 70%;
+    width: 30%;
+
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+
+    font-family: "Ubuntu Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1em;
+}
+
+.section-right {
+
+}
+
+
+.lastname {
+    font-weight: 700;
+    font-size: 50px;
+}
+
+#name {
+    margin-top: 10vh;
+}
